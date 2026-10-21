@@ -1,0 +1,6 @@
+{
+  "name": "Mana Skill Telangana SSC Result Checker",
+  "description": "Fast, mobile-friendly Telangana SSC 10th Class examination result checker by Mana Skill with verified marks memo, subject breakdown, and official links.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
